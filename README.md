@@ -1,6 +1,6 @@
 # Simple Raspberry Pi Bare Metal Reboot Utility
 
-This program is a fork of an example program (https://github.com/bztsrc/raspi3-tutorial/tree/8ce0f75b47ccf233e2271dcf30f03fe7a0a5f56a/08_power) which simply reboots a Raspberry Pi.
+This program is a fork of an example program (https://github.com/bztsrc/raspi3-tutorial/tree/8ce0f75b47ccf233e2271dcf30f03fe7a0a5f56a/08_power) which simply reboots a Raspberry Pi to a specific partition.
 
 It currently only is setup for 64-bit Pi's, but supports Raspberry Pi 4 and 3.
 
